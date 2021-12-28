@@ -1,3 +1,6 @@
+# Notes
+- You can see my all commits via this [repository](https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-graduation-project-toptaskalender).
+
 # Getir Backend Assignment
 
 This project is created for getir backend assignment. It's a RESTful API with a single endpoint that fetches the data in the provided MongoDB collection and returns the results in the requested format.
